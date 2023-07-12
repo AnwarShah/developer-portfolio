@@ -152,6 +152,7 @@ main section {
 
 .skills-container {
     display: flex;
+    gap: 24px;
 }
 
 .skill{
